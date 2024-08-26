@@ -29,7 +29,7 @@ Below is the /Admin/ By clicking on **Registration**, we can register for admin 
 
 --- 
 
-We will first intercept the add-item traffic using Burp Suite
+We will first intercept the registration traffic using Burp Suite
 ![image1](https://github.com/gurudattch/CVEs/blob/main/assets/1.png)
 
  ---
