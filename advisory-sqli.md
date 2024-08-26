@@ -45,7 +45,7 @@ parameter fname is vulnerable to sql injection
 
 Below commands verifies the vulnerability:
 
-`sqlmap -r sqli_test.txt -p fname`
+`$ sqlmap -r sqli_test.txt -p fname`
 
 ---
 
