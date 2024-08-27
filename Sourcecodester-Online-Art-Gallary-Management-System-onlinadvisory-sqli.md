@@ -17,7 +17,7 @@ Injection parameter: fname
 ## Vulnerability Analysis
 
 1. Lack of Input Validation and Sanitization:
-The price and name fields are directly used in the SQL query without any sanitization or validation. This allows an attacker to manipulate the SQL query by injecting malicious SQL code.
+The username field are directly used in the SQL query without any sanitization or validation. This allows an attacker to manipulate the SQL query by injecting malicious SQL code.
 
 2. Use of Plain SQL Queries:
 The script likely uses plain SQL queries to interact with the database. Without prepared statements, this approach is highly vulnerable to SQL injection.
