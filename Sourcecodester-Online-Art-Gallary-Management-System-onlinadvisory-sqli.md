@@ -1,5 +1,8 @@
 # SQL Injection vulnerability was discovered in Sourcecodester Online Art Gallary Management System 1.0 (admin registration)
 
+---
+CVE-2024-8217
+---
 Affected Project: Sourcecodester Online Art Gallary Management System 1.0
 
 Official Website: https://www.sourcecodester.com/php/14211/online-art-gallery-management-system-project-using-phpmysql.html
