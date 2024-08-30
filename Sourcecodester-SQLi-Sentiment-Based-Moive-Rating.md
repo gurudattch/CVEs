@@ -6,7 +6,7 @@ Version: 1.0
 Related Code file: /msrps/classes/Users.php
 
 ---
-## CVE-2024-XXXX
+## CVE-2024-8343
 ```
 $chk = $this->conn->query("SELECT * FROM `client_list` where email ='{$email}' ".($id>0? " and id!= '{$id}' " : ""))->num_rows;
 ```
