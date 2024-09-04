@@ -7,6 +7,8 @@ Official Website: [Sourcecodester Clinic's Patient Management System](https://ww
 Version: 2.0
 
 
+Vulnerability Analysis
+---
 
 The issue lies in the fact that the $gotoPage variable is taken directly from the $_GET superglobal, which can be easily manipulated by an attacker. By crafting a malicious URL, an attacker can redirect users to any website, including ones that may be used for phishing or other malicious purposes.
 affected code 
@@ -34,6 +36,6 @@ affected code
 POC
 ---
 
-192.168.95.115/congratulation.php?goto_page=https://example.com
+`http://192.168.95.115/congratulation.php?goto_page=https://example.com`
 
 ![](https://github.com/gurudattch/CVEs/blob/main/assets/18.png)
