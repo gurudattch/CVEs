@@ -19,5 +19,8 @@
 
 ---
 
-4. SQL injection in **Soon**
-## [CVE-2024-XXXX](https://gitub.com/gurudattch/CVEs/) <img src="https://www.svgrepo.com/show/489859/syringe.svg" alt="sqli" width="40" height="40">
+4. Unauthenticated Open Redirect in Clinc's Patinet Management System
+## [CVE-2024-XXXX](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Clinic's-Patient-Management-System-Open-Redirect.md) <img src="https://www.svgrepo.com/show/452341/redirect-to-url.svg" alt="sqli" width="40" height="40">
+
+5. Reflected Cross Site Scripting (XSS) in Clinc's Patinet Management System
+## [CVE-2024-XXXX](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Clinic's-Patient-Management-System-Reflected-XSS.md)  <img src="https://www.svgrepo.com/show/250468/script.svg" alt="xss" width="40" height="40">
