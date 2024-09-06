@@ -5,6 +5,9 @@ Affected Project: Sourcecodester Clinic's Patient Management System - PHP 2.0
 Official Website: [Sourcecodester Clinic's Patient Management System](https://www.sourcecodester.com/php-clinics-patient-management-system-source-code)
 
 Version: 2.0
+---
+## CVE-2024-8555
+---
 
 
 Vulnerability Analysis
