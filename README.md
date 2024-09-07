@@ -29,3 +29,5 @@
 
 ---
 
+6. SQL injection in Clinic's Patient Mangement System
+## [CVE-2024-8565](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Clinic's-Patient-Management-System-SQLi.md)
