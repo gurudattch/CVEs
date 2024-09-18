@@ -4,6 +4,11 @@ Product: https://www.sourcecodester.com/php/16067/best-online-news-portal-projec
 
 Affected Code: /news-details.php
 Line : 19
+![](https://github.com/gurudattch/CVEs/blob/main/assets/25.png)
+
+---
+
+![](https://github.com/gurudattch/CVEs/blob/main/assets/26.png)
 
 POC:
 
