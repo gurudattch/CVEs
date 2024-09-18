@@ -1,9 +1,17 @@
-A SQL injection vulnerability was discovered in Sourcecodester's 101+ News Station (News Portal) Comment Section **name** parameter was vulnerable with blind time based SQL injection
+# A SQL injection vulnerability was discovered in Sourcecodester's 101+ News Station (News Portal) Comment Section **name** parameter was vulnerable with blind time based SQL injection
 
 Product: https://www.sourcecodester.com/php/16067/best-online-news-portal-project-php-free-download.html
 
+##  CVE-2024-XXXX
+---
+
+Vulnerability Analysis
+---
+
 Affected Code: /news-details.php
 Line : 19
+
+---
 ![](https://github.com/gurudattch/CVEs/blob/main/assets/25.png)
 
 ---
