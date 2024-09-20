@@ -44,5 +44,5 @@
 ---
 
 ## 9. SQL injection News Portal System
-## [CVE-2024-8565](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-News-Portal-Comment-Blind-SQLi.md)<img src="https://www.svgrepo.com/show/489859/syringe.svg" alt="sqli" width="40" height="40">
+## [CVE-2024-9006](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-News-Portal-Comment-Blind-SQLi.md)<img src="https://www.svgrepo.com/show/489859/syringe.svg" alt="sqli" width="40" height="40">
 
