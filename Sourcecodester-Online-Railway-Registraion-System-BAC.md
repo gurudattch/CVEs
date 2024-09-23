@@ -33,8 +33,8 @@ import requests
 import threading
 from bs4 import BeautifulSoup
 
-def send_request_and_extract_data(id):
-    url = input("Enter Url eg: http://localhost: ")
+def send_request_and_extract_data(url,id):
+   
     path = f"{url}/orrs/admin/inquiries/view_details.php?id={id}"
     response = requests.get(path)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -50,6 +50,7 @@ def send_request_and_extract_data(id):
     print()
 
 def main():
+    url = input("Enter Url eg: http://localhost: ")
     from_id = int(input("Enter the starting ID: "))
     to_id = int(input("Enter the ending ID: "))
 
