@@ -5,7 +5,8 @@
 Vulnerability Analysis:
 ---
 
-Affected product:https://www.sourcecodester.com/php/15121/online-railway-reservation-system-phpoop-project-free-source-code.html
+Affected product: [Railway Reservation System](https://www.sourcecodester.com/php/15121/online-railway-reservation-system-phpoop-project-free-source-code.html)
+
 Affected Component: /admin/inquiries/index.php
 
 The page `contact_us.php` has functionality to send inquiries of customers to the admin, but the insecure design of `/admin/inquiries/index.php` makes it vulnerable to send a malicious JavaScript code. Once the admin visits the inquiries page, the JavaScript code gets executed and can be used to steal the admin's cookies.
