@@ -1,4 +1,4 @@
-# Stored XSS vulnerability was discovered in Sourcecodester's Online Railway Reservation System (contact_us.php)
+# Stored XSS vulnerability was discovered in Sourcecodester's Online Railway Reservation System (Ticket Reservation)
 ---
 ## CVE-2024-XXXX
 
@@ -7,7 +7,8 @@ Vulnerability Analysis:
 
 Affected product: [Railway Reservation System](https://www.sourcecodester.com/php/15121/online-railway-reservation-system-phpoop-project-free-source-code.html)
 
-Affected Component: http://localhost/orrs/admin/?page=reservations
+Affected Component: `http://localhost/orrs/admin/?page=reservations`
+
 
 The page `http://localhost/orrs/?page=reserve&sid=1` has functionality to make a Ticket Reservation by customer, but the insecure design of `http://localhost/orrs/?page=reserve&sid=1` makes it vulnerable to send a malicious JavaScript code. Once the admin visits the Reservations page, the JavaScript code gets executed and can be used to steal the admin's cookies.
 
