@@ -6,6 +6,7 @@
 
 Affected product: [Railway Reservation System](https://www.sourcecodester.com/php/15121/online-railway-reservation-system-phpoop-project-free-source-code.html)
 
+Affected Version: 1.0
 Vulnerability Analysis:
 ---
 
