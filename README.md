@@ -64,5 +64,5 @@
 ---
 
 ## 14. Improper Access Control in Online Railway Reservation System
-## [CVE-2024-XXXX](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Online-Railway-Registraion-System-BAC.md)<img src="https://www.svgrepo.com/show/529053/lock.svg" alt="sqli" width="40" height="40">
+## [CVE-2024-9321](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Online-Railway-Registraion-System-BAC.md)<img src="https://www.svgrepo.com/show/529053/lock.svg" alt="sqli" width="40" height="40">
 ---
