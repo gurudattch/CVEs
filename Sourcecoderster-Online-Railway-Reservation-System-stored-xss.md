@@ -1,6 +1,6 @@
 # Stored XSS vulnerability was discovered in Sourcecodester's Online Railway Reservation System (contact_us.php)
 ---
-## CVE-2024-XXXX
+## CVE-2024-9300
 
 Vulnerability Analysis:
 ---
