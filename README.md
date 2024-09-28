@@ -48,4 +48,4 @@
 ---
 
 ## 10.  Stored Cross Site Scripting (XSS) in Online Railway Reservation System
-## [CVE-2024-XXXX](https://github.com/gurudattch/CVEs/blob/main/Sourcecoderster-Online-Railway-Reservation-System-stored-xss.md)<img src="https://www.svgrepo.com/show/250468/script.svg" alt="xss" width="40" height="40">
+## [CVE-2024-9300](https://github.com/gurudattch/CVEs/blob/main/Sourcecoderster-Online-Railway-Reservation-System-stored-xss.md)<img src="https://www.svgrepo.com/show/250468/script.svg" alt="xss" width="40" height="40">
