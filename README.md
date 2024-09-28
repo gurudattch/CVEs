@@ -49,3 +49,20 @@
 
 ## 10.  Stored Cross Site Scripting (XSS) in Online Railway Reservation System
 ## [CVE-2024-9300](https://github.com/gurudattch/CVEs/blob/main/Sourcecoderster-Online-Railway-Reservation-System-stored-xss.md)<img src="https://www.svgrepo.com/show/250468/script.svg" alt="xss" width="40" height="40">
+---
+
+## 11.  Stored Cross Site Scripting (XSS) in Online Railway Reservation System 2
+## [CVE-2024-9299](https://github.com/gurudattch/CVEs/blob/main/Sourcecoderster-Online-Railway-Reservation-StoredXSS-in-reservetion.md)<img src="https://www.svgrepo.com/show/250468/script.svg" alt="xss" width="40" height="40">
+---
+
+## 12. IDOR Vulnerability in Online Railway Reservation System
+## [CVE-2024-9298](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Online-Railway-Reservation-System-IDOR.md)<img src="https://www.svgrepo.com/show/529053/lock.svg" alt="sqli" width="40" height="40">
+---
+
+## 13. Improper Privilege Mangement (PrivEsc) Vulnerability in Online Railway Reservation System
+## [CVE-2024-9297](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Online-Railway-Reservation-PrivEsc.md)<img src="https://www.svgrepo.com/show/529053/lock.svg" alt="sqli" width="40" height="40">
+---
+
+## 14. Improper Access Control in Online Railway Reservation System
+## [CVE-2024-XXXX](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Online-Railway-Registraion-System-BAC.md)<img src="https://www.svgrepo.com/show/529053/lock.svg" alt="sqli" width="40" height="40">
+---
