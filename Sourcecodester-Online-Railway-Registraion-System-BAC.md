@@ -18,6 +18,9 @@ Affected Product: [Online Railway Reservation System](https://www.sourcecodester
  
 
 Exploitation:
+
+[
+![image](https://github.com/gurudattch/CVEs/assets/blob/)](https://github.com/gurudattch/CVEs/blob/main/assets/34.png)
 ---
 
 1. Directly Pointing to the http://your_host/orrs/admin/inquiries/view_details.php?id=*  
