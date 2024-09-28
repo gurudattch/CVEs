@@ -56,7 +56,7 @@
 ---
 
 ## 12. IDOR Vulnerability in Online Railway Reservation System
-## [CVE-2024-9298](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-Online-Railway-Reservation-System-IDOR.md)<img src="https://www.svgrepo.com/show/529053/lock.svg" alt="sqli" width="40" height="40">
+## [CVE-2024-9298](https://github.com/gurudattch/CVEs/blob/main/Sourcecoderster-Online-Railway-Reservation-System-IDOR.md)<img src="https://www.svgrepo.com/show/529053/lock.svg" alt="sqli" width="40" height="40">
 ---
 
 ## 13. Improper Privilege Mangement (PrivEsc) Vulnerability in Online Railway Reservation System
