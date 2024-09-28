@@ -1,6 +1,6 @@
 # Broken Access Control (Improper Access Control) vulnerability was discovered in SourceCoderster Online Railway Reservation System 
 ---
-## CVE-2024-XXXX
+## CVE-2024-93XX
 
 Vulnerability Analysis:
 ---
