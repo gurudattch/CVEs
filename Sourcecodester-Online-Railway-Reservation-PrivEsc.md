@@ -1,6 +1,6 @@
 # A Improper Privilege Management Vulnerability Discovered in Sourcecoderster Online Railway Reservation System where a low privilege user (staff user) can perform Administrative action without any Authentication / Authorization 
 ---
-## CVE-2024-XXXX
+## CVE-2024-9297
 
 ---
 
