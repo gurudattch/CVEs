@@ -47,11 +47,11 @@
 ## [CVE-2024-9006](https://github.com/gurudattch/CVEs/blob/main/Sourcecodester-News-Portal-Comment-Blind-SQLi.md)<img src="https://www.svgrepo.com/show/489859/syringe.svg" alt="sqli" width="40" height="40">
 ---
 
-## 10.  Stored Cross Site Scripting (XSS) in Online Railway Reservation System
+## 10. Blind Stored Cross Site Scripting (XSS) in Online Railway Reservation System
 ## [CVE-2024-9300](https://github.com/gurudattch/CVEs/blob/main/Sourcecoderster-Online-Railway-Reservation-System-stored-xss.md)<img src="https://www.svgrepo.com/show/250468/script.svg" alt="xss" width="40" height="40">
 ---
 
-## 11.  Stored Cross Site Scripting (XSS) in Online Railway Reservation System 2
+## 11.  Blind Stored Cross Site Scripting (XSS) in Online Railway Reservation System 2
 ## [CVE-2024-9299](https://github.com/gurudattch/CVEs/blob/main/Sourcecoderster-Online-Railway-Reservation-StoredXSS-in-reservetion.md)<img src="https://www.svgrepo.com/show/250468/script.svg" alt="xss" width="40" height="40">
 ---
 
